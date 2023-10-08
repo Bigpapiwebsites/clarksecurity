@@ -206,7 +206,7 @@ section#contact p {
 .contact-form {
   max-width: 1100px;
   margin: 0 auto;
-  background-color: gold;
+  background-color: goldenrod;
   padding: 100px;
   border-radius: 5px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -257,12 +257,12 @@ footer {
 
 .bigpapi{
 
-  color: gold;
+  color: goldenrod;
   font-size: 10px;
 
 }
 
 
 @media (max-width: 768px) {
- 
+
 }
